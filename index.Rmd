@@ -1,0 +1,24 @@
+---
+  title: "Advanced Business Analytics"
+---
+## C08
+  
+<script src="https://gist.github.com/shwarajtuse/a17b52485df7d5d9bae9782af4af32ca.js"></script>
+    
+## C05 
+    
+<script src="https://gist.github.com/shwarajtuse/c3242abae2ddf3b59bb8811444223549.js"></script>
+      
+      
+## C04
+      
+<script src="https://gist.github.com/shwarajtuse/ab022d8b6c7693d2857734f02bc86488.js"></script>
+        
+## C02
+        
+<script src="https://gist.github.com/shwarajtuse/9bb4930a55edc332fd760b613e9ce151.js"></script>
+          
+          
+## C01
+          
+<script src="https://gist.github.com/shwarajtuse/8656b44a13360ff93a2bd11dac5777bd.js"></script>
